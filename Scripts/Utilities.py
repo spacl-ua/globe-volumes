@@ -5,7 +5,8 @@ Utilities for using EvaluationScript
 
 If you use this CNN model in your work, please site the following:
 Lavanya Umapathy, Blair Winegar, Lea MacKinnon, Michael Hill, Maria I Altbach, Joseph M Miller and Ali Bilgin, 
-"*Fully Automated Segmentation of Globes for Volume Quantification in CT Orbits Images Using Deep Learning*", American Journal of Neuroradiology, June 2020.
+"Fully Automated Segmentation of Globes for Volume Quantification in CT Orbits Images Using Deep Learning", 
+American Journal of Neuroradiology, June 2020.
 """
 
 import numpy as np
