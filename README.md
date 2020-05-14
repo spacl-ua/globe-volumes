@@ -19,6 +19,9 @@ The following are available in the repository
 2) An evaluation script for testing new CT images
 3) Utilities script
 
+### Usage
+Use the EvaluationScript.ipynb provided under Scripts directory. Change the relevant file paths and run.
+
 
 ### Citation
 If you use this CNN model in your work, please site the following:
